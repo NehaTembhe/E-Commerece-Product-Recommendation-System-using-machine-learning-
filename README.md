@@ -82,9 +82,6 @@ The dataset contains information about products, including:
    ```
 3. Interact with the web interface to explore product recommendations.
 
-## Screenshots
-Add relevant screenshots or GIFs here to showcase your project.
-
 ## Future Enhancements
 - Integrate with real-world e-commerce APIs.
 - Add user authentication for personalized recommendations.
